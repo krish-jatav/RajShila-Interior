@@ -14,8 +14,8 @@ router.get("/design", function(req, res, next) {
 router.get("/kitchen", function(req, res, next) {
     res.render("kitchen");
 });
-router.get("/badroom", function(req, res, next) {
-    res.render("badroom");
+router.get("/bedroom", function(req, res, next) {
+    res.render("bedroom");
 });
 router.get("/livingroom", function(req, res, next) {
     res.render("livingroom");

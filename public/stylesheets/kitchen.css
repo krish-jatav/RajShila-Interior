@@ -118,14 +118,7 @@ body {
     }
     #kitchen h1 {
         text-align: center;
-        color: #000000;
-    }
-    #kitchen h3 {
-        text-align: center;
         color: #ffffff;
-        background-color: rgb(0, 0, 0);
-        font-size: 10px;
-        font-weight: 100;
     }
     .kitchen-card {
         width: 320px;
